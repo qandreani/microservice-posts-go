@@ -9,10 +9,10 @@ import (
 var DB *gorm.DB
 
 const (
-	host     = "51.159.11.187"
-	port     = 30902
-	user     = "quentin"
-	password = "@Quentin23"
+	host     = ""
+	port     = 
+	user     = ""
+	password = ""
 	dbname   = "posts"
 )
 
